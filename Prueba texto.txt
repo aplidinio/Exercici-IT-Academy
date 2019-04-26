@@ -1,2 +1,4 @@
 ﻿Esto es una prueba. 
 Es el texto original.
+
+Y ahora he hecho un cambio.
